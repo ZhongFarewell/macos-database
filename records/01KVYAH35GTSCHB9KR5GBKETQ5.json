@@ -1,0 +1,13 @@
+{
+  "id": "01KVYAH35GTSCHB9KR5GBKETQ5",
+  "type": "browser:bookmark",
+  "data": {
+    "title": "Reddit",
+    "link": "https://www.reddit.com/",
+    "img": "img/sites/reddit.svg",
+    "section": "freq",
+    "order": 9
+  },
+  "createdAt": "2026-06-25T02:43:16.329Z",
+  "updatedAt": "2026-06-25T02:43:16.329Z"
+}
