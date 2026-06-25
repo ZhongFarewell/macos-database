@@ -1,0 +1,13 @@
+{
+  "id": "01KVYAH35GM6X18A63DHSE8GJC",
+  "type": "browser:bookmark",
+  "data": {
+    "title": "Twitter",
+    "link": "https://www.twitter.com/",
+    "img": "img/sites/twitter.svg",
+    "section": "freq",
+    "order": 2
+  },
+  "createdAt": "2026-06-25T02:43:49.733Z",
+  "updatedAt": "2026-06-25T02:43:49.733Z"
+}
