@@ -136,7 +136,15 @@
       "file": "records/01KVYAMX66W2TRSYC3PJ49T77W.json",
       "sha": "2c47b15624ee7cccfecdbcd904ce6cebae6156e6",
       "updatedAt": "2026-06-25T02:44:51.991Z"
+    },
+    {
+      "id": "user:profile",
+      "type": "user:profile",
+      "singleton": true,
+      "file": "records/user:profile.json",
+      "sha": "2c05c07734abe9b02fd954b92b9730a06d57e05a",
+      "updatedAt": "2026-06-25T07:31:13.133Z"
     }
   ],
-  "sha": "62f33882ad9340fa2f74e9b444adbd6ec38ceed6"
+  "sha": "bdb87251ded604f2a350aed47453cd71a66dba26"
 }
