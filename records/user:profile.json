@@ -1,0 +1,14 @@
+{
+  "id": "user:profile",
+  "type": "user:profile",
+  "data": {
+    "name": "Aling",
+    "autograph": "So am i a kind person?",
+    "intr": "",
+    "gender": "男",
+    "wechat": "",
+    "QQ": "1739174050"
+  },
+  "createdAt": "2026-06-25T07:31:13.131Z",
+  "updatedAt": "2026-06-25T07:31:13.133Z"
+}
