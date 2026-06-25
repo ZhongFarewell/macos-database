@@ -1,0 +1,13 @@
+{
+  "id": "01KVYAH35GFHWB1YYFRYWTBASW",
+  "type": "browser:bookmark",
+  "data": {
+    "title": "Bilibili",
+    "link": "https://www.bilibili.com/",
+    "img": "img/sites/bilibili.svg",
+    "section": "freq",
+    "order": 6
+  },
+  "createdAt": "2026-06-25T02:44:01.352Z",
+  "updatedAt": "2026-06-25T02:44:01.352Z"
+}
