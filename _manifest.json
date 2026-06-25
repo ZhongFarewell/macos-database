@@ -26,22 +26,6 @@
       "updatedAt": "2026-06-25T02:43:16.329Z"
     },
     {
-      "id": "01KVYAH35G4D3NY573R4F02JKS",
-      "type": "browser:bookmark",
-      "singleton": false,
-      "file": "records/01KVYAH35G4D3NY573R4F02JKS.json",
-      "sha": "74d01735104871a5d4ccd967b3feff8d0dd27de2",
-      "updatedAt": "2026-06-25T02:43:19.863Z"
-    },
-    {
-      "id": "01KVYAH35GDXXN3M0F4S7AZ986",
-      "type": "browser:bookmark",
-      "singleton": false,
-      "file": "records/01KVYAH35GDXXN3M0F4S7AZ986.json",
-      "sha": "b812253b4053ecea5f15ef3f68fa197677889f4d",
-      "updatedAt": "2026-06-25T02:43:22.804Z"
-    },
-    {
       "id": "01KVYAH35GVEF5CRYVPXA0NEDY",
       "type": "browser:bookmark",
       "singleton": false,
@@ -162,5 +146,5 @@
       "updatedAt": "2026-06-25T02:44:51.991Z"
     }
   ],
-  "sha": "43526e1ab63b3be3d794573013cd94566b6e655c"
+  "sha": "995a30e07852ef32b2c8addc6b41f470b10e3c0c"
 }
