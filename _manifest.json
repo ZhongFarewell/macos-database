@@ -142,9 +142,9 @@
       "type": "user:profile",
       "singleton": true,
       "file": "records/user:profile.json",
-      "sha": "0107abcf6c296167a3865820f365da3a1c5b61dd",
-      "updatedAt": "2026-06-25T09:02:58.558Z"
+      "sha": "e8c1135165c3c57e6287cfa5001c54fc9017b79f",
+      "updatedAt": "2026-06-25T09:03:40.655Z"
     }
   ],
-  "sha": "5145d22c4c95bb99004ec99f04007de829dea55a"
+  "sha": "dbd5351f09fd059dffd402e05797e335f83bfce0"
 }
