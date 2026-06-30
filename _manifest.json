@@ -152,7 +152,15 @@
       "file": "records/system:wallpaper.json",
       "sha": "1cb7339d674c78482dac250763573c7618300c17",
       "updatedAt": "2026-06-30T01:32:07.641Z"
+    },
+    {
+      "id": "01KWBK6JJ7J9ZKSXMGNR1H1TNS",
+      "type": "finder:entry",
+      "singleton": false,
+      "file": "records/01KWBK6JJ7J9ZKSXMGNR1H1TNS.json",
+      "sha": "da9a4e8252a849804b5e5c0f3bd95d9e50ff7da7",
+      "updatedAt": "2026-06-30T06:24:25.160Z"
     }
   ],
-  "sha": "f8b7b5446de465cdc9653434e37ba6c003c76948"
+  "sha": "f6a44b76fc486bd4eb960af28852e6d93c44334d"
 }
