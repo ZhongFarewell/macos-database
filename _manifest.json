@@ -240,15 +240,7 @@
       "file": "records/01KWBXKTCVN114MKG6DB4SYZ1B.json",
       "sha": "6e771993871dadcd878379fbf82dcbca743d3f16",
       "updatedAt": "2026-06-30T09:26:24.924Z"
-    },
-    {
-      "id": "01KWBXN816KKTDNVD1234S35Q7",
-      "type": "finder:entry",
-      "singleton": false,
-      "file": "records/01KWBXN816KKTDNVD1234S35Q7.json",
-      "sha": "fc7aa9b3b2dad54dd4a01cc9f10f72612d51430d",
-      "updatedAt": "2026-06-30T09:28:33.011Z"
     }
   ],
-  "sha": "63cbfe3c19ae5a65b4b3c4d088bba58a17aaf574"
+  "sha": "65ba2bb6351a35d30febc6c219fea3df7bea94a2"
 }
