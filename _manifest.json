@@ -230,8 +230,8 @@
       "type": "finder:entry",
       "singleton": false,
       "file": "records/01KWBWY62TXMXKPBD6CMQQKWXN.json",
-      "sha": "6139f582edb1ee0cff464350afc481e4a6650c44",
-      "updatedAt": "2026-06-30T09:14:35.995Z"
+      "sha": "da0e45c4b791c13d777fed0595a523e8b236531a",
+      "updatedAt": "2026-06-30T09:25:58.651Z"
     },
     {
       "id": "01KWBXDR16R40GCTRGDKB779MB",
@@ -242,5 +242,5 @@
       "updatedAt": "2026-06-30T09:25:29.357Z"
     }
   ],
-  "sha": "97fec40bfc4e90464ebb4ca86c3382944b1d2ee0"
+  "sha": "597d9c5bb7511bb30acf9f2c485cd4048ff6fa17"
 }
