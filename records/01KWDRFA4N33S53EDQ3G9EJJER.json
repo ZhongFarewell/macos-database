@@ -3,7 +3,7 @@
   "type": "finder:entry",
   "data": {
     "name": "落.mp3",
-    "parentId": "01KWBMBWW2A779XADN7BMAWFCN",
+    "parentId": "trash",
     "kind": "file",
     "ext": "mp3",
     "size": 2953077,
@@ -11,8 +11,11 @@
     "blob": {
       "file": "blobs/01KWDRFA4N33S53EDQ3G9EJJER.mp3",
       "sha": "5eb784f315970b1ebe18b28b5bedf0460f97bbb0"
-    }
+    },
+    "trashed": true,
+    "trashedAt": "2026-07-01T03:18:47.013Z",
+    "originalParentId": "01KWBMBWW2A779XADN7BMAWFCN"
   },
   "createdAt": "2026-07-01T02:35:03.189Z",
-  "updatedAt": "2026-07-01T02:35:12.453Z"
+  "updatedAt": "2026-07-01T03:18:47.013Z"
 }
